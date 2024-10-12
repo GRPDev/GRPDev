@@ -5,3 +5,5 @@ Engineer and FMEA specialist diving into Software Development | Automotive Indus
 📜 Certifications: Python Developer
 📈 Projects: Eager to join
 🌱 Learning: Docker
+✈️ Travelled the globe
+🗣️ Spanish, English, German, Portuguese
